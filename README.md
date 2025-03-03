@@ -55,3 +55,15 @@ Welcome to my GitHub profile! I am Yassino Louati, a passionate developer skille
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<div align="center">
+  <a href="https://github.com/Yassino14/portfolio">
+    <img src="portfolio.png" />
+  </a>
+  <a href="https://github.com/jYassino14/umlbeast">
+    <img src="uml.png" />
+  </a>
+</div>
+<div align="center">
+  📫 How to reach me: <a href="mailto:louati.yessine1@gmail.com">louati.yessine1@gmail.com</a>
+</div>
