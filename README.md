@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I am Yassino Louati, a passionate developer skille
   <a href="https://github.com/Yassino14/portfolio">
     <img src="portfolio.png" />
   </a>
-  <a href="https://github.com/jYassino14/umlbeast">
+  <a href="https://github.com/Yassino14/umlbeast">
     <img src="uml.png" />
   </a>
 </div>
