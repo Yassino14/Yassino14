@@ -56,6 +56,7 @@ Welcome to my GitHub profile! I am Yassino Louati, a passionate developer skille
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+## 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/Yassino14/portfolio">
     <img src="portfolio.png" />
