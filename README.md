@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I am Yassino Louati, a passionate developer skille
     <img src="photool.png" />
   </a>
    <a href="https://github.com/Yassino14/zaytoun">
-    <img src="https://github.com/Yassino14/portfolio/blob/main/zaytoun.png" />
+    <img src="https://github.com/Yassino14/portfolio/blob/main/Zaytoun-.png" />
   </a>
   <a href="https://github.com/Yassino14/zooland">
     <img src="https://github.com/Yassino14/portfolio/blob/main/zooland.png" />
