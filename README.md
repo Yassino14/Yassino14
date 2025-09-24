@@ -68,7 +68,7 @@ Welcome to my GitHub profile! I am Yassino Louati, a passionate developer skille
     <img src="nerdvana.png" />
   </a>
   <a href="https://github.com/Yassino14/visionbi">
-    <img src="visionbi.png" />
+    <img src="https://github.com/Yassino14/portfolio/blob/main/visionbi.png" />
   </a>
   <a href="https://github.com/Yassino14/Islamy">
     <img src="Islamy.png" />
@@ -77,16 +77,16 @@ Welcome to my GitHub profile! I am Yassino Louati, a passionate developer skille
     <img src="photool.png" />
   </a>
    <a href="https://github.com/Yassino14/zaytoun">
-    <img src="zaytoun.png" />
+    <img src="https://github.com/Yassino14/portfolio/blob/main/zaytoun.png" />
   </a>
   <a href="https://github.com/Yassino14/zooland">
     <img src="https://github.com/Yassino14/portfolio/blob/main/zooland.png" />
   </a>
   <a href="https://yassino14.github.io/AI-Workout-Planner-Agent">
-    <img src="workout.png" />
+    <img src="https://github.com/Yassino14/portfolio/blob/main/workout.png" />
   </a>
   <a href="https://github.com/Yassino14/chouflihal">
-    <img src="chouflihal.png" />
+    <img src="https://github.com/Yassino14/portfolio/blob/main/chouflihal.png" />
   </a>
 </div>
 <div align="center">
