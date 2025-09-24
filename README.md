@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I am Yassino Louati, a passionate developer skille
   </a>
   <a href="https://github.com/Yassino14/visionbi">
     <img src="visionbi.png" />
-    </a>
+  </a>
   <a href="https://github.com/Yassino14/Islamy">
     <img src="Islamy.png" />
   </a>
