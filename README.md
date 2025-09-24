@@ -80,7 +80,7 @@ Welcome to my GitHub profile! I am Yassino Louati, a passionate developer skille
     <img src="zaytoun.png" />
   </a>
   <a href="https://github.com/Yassino14/zooland">
-    <img src="zooland.png" />
+    <img src="https://github.com/Yassino14/portfolio/blob/main/zooland.png" />
   </a>
   <a href="https://yassino14.github.io/AI-Workout-Planner-Agent">
     <img src="workout.png" />
