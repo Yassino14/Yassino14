@@ -85,7 +85,7 @@ Welcome to my GitHub profile! I am Yassino Louati, a passionate developer skille
   <a href="https://yassino14.github.io/AI-Workout-Planner-Agent">
     <img src="https://github.com/Yassino14/portfolio/blob/main/workout.png" />
   </a>
-  <a href="https://github.com/Yassino14/chouflihal">
+  <a href="https://github.com/Yassino14/Choufli-Hal-Chess">
     <img src="https://github.com/Yassino14/portfolio/blob/main/chouflihal.png" />
   </a>
 </div>
