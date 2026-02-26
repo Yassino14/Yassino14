@@ -5,7 +5,7 @@
 
 ## Description
 
-Welcome to my GitHub profile! I am Yassino Louati, a passionate developer skilled in various technologies. I love creating innovative projects and sharing my work with the world. Feel free to explore my repositories and connect with me through my socials below.
+Welcome to my GitHub profile! I am Yassine Louati, a future Data Science and AI Engineer . I love creating innovative projects and sharing my work with the world. Feel free to explore my repositories and connect with me through my socials below.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/YassinoLouati)  
