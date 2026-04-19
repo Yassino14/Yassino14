@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="a.png" alt="Banner Image" width="100%">
+  <img src="Louati.png" alt="Banner Image" width="100%">
 </p>
 
 ## Description
