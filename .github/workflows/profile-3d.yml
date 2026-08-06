@@ -23,11 +23,10 @@ jobs:
       - name: Generate 3D Calendar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: Yassino14
         run: npx -y github-profile-3d-contrib
 
-      - name: Commit and Push
+      - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
