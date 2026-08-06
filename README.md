@@ -32,7 +32,6 @@ Welcome to my GitHub profile! I am **Yassine Louati**, a future Data Science and
 
 <div align="center">
   <!-- GitHub Stats & Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yassino14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&icon_color=00B4D8" height="192px" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yassino14&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00F0FF&currStreakNum=00F0FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" height="192px" alt="GitHub Streak" />
   <br><br>
   <!-- Activity Graph -->
@@ -40,8 +39,6 @@ Welcome to my GitHub profile! I am **Yassine Louati**, a future Data Science and
 </div>
 
 ---
-
-## 🐍 Contribution Snake & 3D Calendar
 
 <div align="center">
   <!-- Snake Animation -->
@@ -51,10 +48,6 @@ Welcome to my GitHub profile! I am **Yassine Louati**, a future Data Science and
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yassino14/Yassino14/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
   <br><br>
-  <!-- 3D Calendar -->
-  <img src="https://raw.githubusercontent.com/Yassino14/Yassino14/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Calendar" />
-  <br>
-  <em>(Note: Make sure you have the respective GitHub Actions set up in your repository for the Snake and 3D Calendar to render automatically!)</em>
 </div>
 
 ---
