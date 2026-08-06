@@ -31,9 +31,13 @@ Welcome to my GitHub profile! I am **Yassine Louati**, a future Data Science and
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Stats & Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yassino14&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00F0FF&currStreakNum=00F0FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" height="192px" alt="GitHub Streak" />
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassino14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&icon_color=00B4D8&count_private=true&include_all_commits=true" height="192px" alt="GitHub Stats" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Yassino14&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00F0FF&currStreakNum=00F0FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" height="192px" alt="GitHub Streak" />
   <br><br>
+
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yassino14&bg_color=0D1117&color=00F0FF&line=00B4D8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
