@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="Louati.png" alt="Banner Image" width="100%">
+  <img src="visite.png" alt="Banner Image" width="100%">
   <br><br>
   
   <!-- Animated Typing Header -->
