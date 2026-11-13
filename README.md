@@ -116,8 +116,9 @@ Welcome to my GitHub profile! I am **Yassine Louati**, a future Data Science and
 ---
 
 ## 📜 Certifications
-*   🏆 **SQL™ — Oracle Database SQL Certified Associate **
+*   🏆 **SQL™ — Oracle Database SQL Certified Associate**
 *   🏆 **PCAP™ — Certified Associate Python Programmer**
+*   🏆 **PSM I — Professional Scrum Master I**
 *   🏆 **Agile Project Management — HP LIFE**
 *   🏆 **Introduction to Prompt Engineering with GitHub Copilot**
 *   🏆 **Artificial Intelligence for Business**
