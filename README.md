@@ -155,7 +155,7 @@ Welcome to my GitHub profile! I am **Yassine Louati**, a future Data Science and
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Yassino14/visionbi">
-        <img src="https://raw.githubusercontent.com/Yassino14/portfolio/main/visionbi.png" width="100%" alt="VisionBI" />
+        <img src="visionbi.png" width="100%" alt="VisionBI" />
         <br>
         <strong>VisionBI</strong>
       </a>
@@ -196,7 +196,7 @@ Welcome to my GitHub profile! I am **Yassine Louati**, a future Data Science and
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Yassino14/VisionDB">
-        <img src="visiondb.png" width="100%" alt="VisionDB" />
+        <img src="visiondB.png" width="100%" alt="VisionDB" />
         <br>
         <strong>VisionDB</strong>
       </a>
